@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> (Snapshot) Home component renders a title and a Link 1`] = `
+<div
+  className="home-container"
+>
+  <h1>
+    Github Battle: Battle your friends...and stuff.
+  </h1>
+  <a
+    className="button"
+    href="/battle"
+    onClick={[Function]}
+  >
+    Battle
+  </a>
+</div>
+`;
